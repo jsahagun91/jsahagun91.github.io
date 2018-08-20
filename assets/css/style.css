@@ -2,6 +2,11 @@ body, .jumbotron {
     margin-top: 50px;
     font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
     font-weight: bold;
+    background-color: black;
+}
+
+.title2 {
+    color: white;
 }
 
 #colorful-nav {
@@ -151,6 +156,13 @@ body {
 #starwars {
     background-image: url(../images/starwars.jpg);
     background-position: center;
+    border-radius: 6px;
+}
+
+#friendfinder {
+    background-image: url("http://cdn.shopify.com/s/files/1/1061/1924/products/Sunglasses_Emoji_be26cc0a-eef9-49e5-8da2-169bb417cc0b_grande.png?v=1480481057");
+    background-position: center;
+    background-size: cover;
     border-radius: 6px;
 }
 
